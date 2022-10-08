@@ -1,1 +1,2 @@
-# BuzzFizz is a program created using Java that is essentially a counter up to 100 by 1 using a for loop and then using if and if else statements to manipulate the output when printed instead of just printing 1-100.
+# BuzzFizz Java function
+BuzzFizz is a program created using Java that is essentially a counter up to 100 by 1 using a for loop and then using if and if else statements to manipulate the output when printed instead of just printing 1-100. For example. The output will count from 1 to 100 but print 'Buzz' when the numbers are divided by 3 and print 'Fizz' when divisible by 5, and finally print 'BuzzFizz' when the number is divisible by both 3 and 5.
